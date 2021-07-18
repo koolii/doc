@@ -105,9 +105,37 @@ Youtuberが契約したやつらしい
 
 ## ASQホテル
 
-https://thaiest.com/blog/cheapest-thailand-asq-hotels
+値段的には100,000円に行かない位にしたい
+**3.36円/bath換算だと29,500bath位にすると良い**
 
-no longer availableな所もあるので注意する
+- https://thaiest.com/blog/cheapest-thailand-asq-hotels
+- https://asq.in.th/?sortSelectedItem=Lowest%20Price&maxPriceFilter=31000
+
+> M2 de Bangkok ASQ
+> Superior (20 sq.m) 26,900 THB per person
+
+一番安い。asq.inのサイトでは no longer availableだったが、HPだと予約できそう
+https://thaiest.com/bookings/asq/m2-de-bangkok
+
+> 35. Holiday Inn Express Bangkok Sukhumvit 11
+値段はあれ(31,000bath)だが、値引率が良い
+
+> citrus sukhumvit 11
+https://thaiest.com/bookings/asq/citrus-sukhumvit-11
+
+31,000baht位
+
+### 29,500bath以下のホテル
+
+- 2. Seasons Siam Hotel
+- 3. The Green View Hotel
+- 4. Grace Hotel
+- 5. Citrus Sukhumvit 13 Bangkok
+- 6. The Legacy Hotel
+- 7. Villa De Khaosan
+- 8. The Cotai Luxury Design Hotel
+- 9. Luxor Bangkok Hotel
+
 
 ## ASQホテル後の滞在先
 
